@@ -24,3 +24,4 @@ Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
 I have applied classification techniques on train.csv
+## Copyright Davie Kibet
