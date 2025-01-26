@@ -23,5 +23,12 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
+### 🚧 Project Status  
+- The /'app.py' file is missing Deployment API traversal examples.  
+- The '/testModel.py' is missing unit tsts for model refs.  
+- Unit tests for sorting algorithms will be added soon. 
+- /'dataPreprocess.py' has pending feature engineering. 
+
+**Updates coming soon!**  
 I have applied classification techniques on train.csv
 ## Copyright Davie Kibet
